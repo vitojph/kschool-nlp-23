@@ -1,7 +1,7 @@
 ---
 title: "Introducción al NLProc | Máster en Data Science | KSchool Madrid"
 author: "Víctor Peinado"
-date: "enero de 2019"
+date: "enero de 2021"
 output:
   rmarkdown::tufte_handout:
     highlight: pygments
@@ -77,14 +77,13 @@ En la década de los 2010s hemos visto el resurgir de los sistemas de aprendizaj
 
 Una buena manera de conocer los temas que trata un área de investigación es revisar el calendario de los congresos más importantes:[^calendar]
   
-- ACL: *call for papers*[^acl-cfp] y programa[^acl-cfp].
+- ACL: https://acl2020.org
 
-- EMNLP: *call for papers*[^emnlp-cfp] y programa[^emnlp].
+- EMNLP: https://2020.emnlp.org/
 
-- COLING: *call for papers*[^coling-cfp] y programa[^coling]
+- COLING: https://coling2020.org/
 
-- SEPLN: *call for papers*[^sepln-cfp]y programa[^sepln]
-
+- SEPLN: http://sepln2020.sepln.org/
 
 De este modo, podemos identificar algunas de las tareas más comunes del área:
 
@@ -147,14 +146,6 @@ Según la ACL (*Association for Computational Linguistics*): *Computational Ling
 [^what]: What is Computational Linguistics http://www.coli.uni-saarland.de/~hansu/what_is_cl.html^
 
 [^calendar]: NLP Conferences Calendar http://cs.rochester.edu/~omidb/nlpcalendar/
-[^acl]: ACL 2018 Program https://acl2018.org/programme/schedule/
-[^acl-cfp]: ACL 2019 CFP http://www.acl2019.org/EN/call-for-papers.xhtml
-[^coling]: COLING 2018 Program http://coling2018.org/
-[^coling-cfp]: COLING 2018 CFP https://coling2018.org/final-call-for-paper
-[^emnlp]: EMNLP 2018 Program https://emnlp2018.org/program/keynotes/
-[^emnlp-cfp]: EMNLP 2018 CFP http://emnlp2018.org/calls/papers/
-[^sepln]: SEPLN 2018 Program http://www.sepln2018.com/en/programa/
-[^sepln-cfp]: SEPLN 2018 CFP http://www.sepln2018.com/
 [^acl-faq]: ACL FAQ about Computational Linguistics https://aclweb.org/aclwiki/Frequently_asked_questions_about_Computational_Linguistics
 [^imagenet-nlp]: NLP's ImageNet moment has arrived http://ruder.io/nlp-imagenet/
 [^4-problems]: The 4 Biggest Open Problems in NLP http://ruder.io/4-biggest-open-problems-in-nlp/
