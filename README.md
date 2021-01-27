@@ -12,37 +12,38 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [Unix Command Line Tools to Process Text](ShellUnix-proc-text.pdf)
 
-- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-corpus.ipynb)
+- [NLTK: Access to Corpora and Linguistic Resources](notebooks/nltk-corpus.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/nltk-corpus.ipynb)
 
-- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-pos.ipynb)
+- [NLTK: Part-of-Speech Tagging](notebooks/nltk-pos.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/nltk-pos.ipynb)
 
-- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/nltk-analyzers.ipynb)
+- [NLTK: Parsing](notebooks/nltk-analyzers.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/nltk-analyzers.ipynb)
 
-- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/textblob.ipynb)
+- [TextBlob: NLP](notebooks/textblob.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/textblob.ipynb)
 
-- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/spacy.ipynb)
+- [spaCy: NLP](notebooks/spacy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/spacy.ipynb)
 
-- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/flair.ipynb)
+- [flair: NLP](notebooks/flair.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/flair.ipynb)
 
-- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/vsm.ipynb)
+- [Space Vector Models](notebooks/vsm.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/vsm.ipynb)
 
-- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-19/blob/master/notebooks/word2vec.ipynb)
+- [Word Embeddings](notebooks/word2vec.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vitojph/kschool-nlp-23/blob/master/notebooks/word2vec.ipynb)
 
 
 ## MOOCs, Courses and Other Materials
 
+- [Advance NLP with spaCy](https://course.spacy.io/en/).
+  
 - Dragomir Radev's *Introduction to Natural Language Processing* is no longer on Coursera. But here there are [some materials](https://web.eecs.umich.edu/~radev/coursera-slides/).
 
 - Some years ago, Manning & Jurafsky organized a course on NLP at Coursera. There are some [slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and [videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
 
-- [Stanford NLP](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
+- [Natual Language Processing, Stanford](https://web.stanford.edu/class/cs224n/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
 
-- [Natural Language Processing, Johns Hopkins University](http://www.cs.jhu.edu/~jason/465/)
+- [Natual Language Processing with Deep Learning, Stanford](https://web.stanford.edu/class/cs224n/)
 
+- [Natural Language Processing, Johns Hopkins University](http://www.cs.jhu.edu/~jason/465/) ([materiales](http://www.cs.jhu.edu/~jason/465/syllabus.pdf))
 
-- [Programming for Linguists (and fellow travelers)](http://web.stanford.edu/class/linguist278/) ([materiales](http://web.stanford.edu/class/linguist278/syllabus.html))
-
-- [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [Oxford Deep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 
 ## Books and Further Readings
@@ -54,6 +55,12 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 - Emily Bender. [Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax](https://www.amazon.com/Linguistic-Fundamentals-Natural-Language-Processing/dp/1627050116)
 
 - Jacob Einstein. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
+
+- Yoav Goldberg. [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1056). // [A Primer on NN for NLP](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+- [Dive into Deep Learning](https://d2l.ai/): [NLP Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html). [NLP Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html)
+
+- Jason Brownlee. [Deep Learning for Natural Language Processing](https://machinelearningmastery.com/deep-learning-for-nlp/)
 
 - Steven Bird, Ewan Klein, and Edward Loper. [Natural Language Processing with Python](http://www.nltk.org/book/)
 
@@ -94,7 +101,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [BERT pre-trained vectors for Tensorflow](https://github.com/google-research/bert)
   
-- [PyTorch pre-trained vectors](https://github.com/huggingface/pytorch-pretrained-BERT): BERT & OpenAI's GPT Models
+- [HuggingFace `transformers`](https://github.com/huggingface/transformers)
 
 - [Pre-trained word vectors by fastText](https://fasttext.cc)
 
@@ -105,27 +112,8 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - [Cloud Natural Language API](https://cloud.google.com/natural-language/)
 
-- [IBM's Watson API](https://www.ibm.com/watson/developercloud/services-catalog.html)
+- [IBM's Watson API](https://www.ibm.com/watson/)
 
 - [MeaningCloud API](https://www.meaningcloud.com/developer/apis)
 
-- [MonkeyLearn](http://docs.monkeylearn.com/article/api-reference/)
-
-- [Mashape's Market on Natural Language](https://market.mashape.com/explore?query=language&page=1)
-
-
-
-### Readings on Neural Networks and Deep Learning
-
-- [Christopher Olah's blog on Neural Networks ](http://colah.github.io/), specially the post on [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
-
-- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-
-- [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) ([code repo](https://github.com/karpathy/char-rnn))
-
-- [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
-
-- [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
-
-- [Deep Learning for NLP (without magic)](http://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf)
-
+- [MonkeyLearn](https://monkeylearn.com/monkeylearn-api/)
