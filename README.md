@@ -56,7 +56,7 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - Jacob Einstein. [Natural Language Processing](https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf)
 
-- Yoav Goldberg. [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1056). // [A Primer on NN for NLP](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- Yoav Goldberg. [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?cPath=22&products_id=1056). // Summarized in [A Primer on NN for NLP](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 
 - [Dive into Deep Learning](https://d2l.ai/): [NLP Pretraining](https://d2l.ai/chapter_natural-language-processing-pretraining/index.html). [NLP Applications](https://d2l.ai/chapter_natural-language-processing-applications/index.html)
 
