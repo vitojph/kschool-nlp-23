@@ -14,7 +14,7 @@ Or try to download them from a terminal using command line tools:
 
     [ -d data ] || mkdir data
     cd data
-    wget -O eswiki-300.tar.gz https://vitojph.keybase.pub/eswiki-300.tar.gz?dl=1
+    wget https://vitojph.keybase.pub/eswiki-300.tar.gz -O eswiki.tar.gz
 
 ## fastText word vectors for English and Spanish
 
