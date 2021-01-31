@@ -37,9 +37,9 @@ Master](http://kschool.com/cursos/master-en-data-science-madrid/) held at
 
 - Some years ago, Manning & Jurafsky organized a course on NLP at Coursera. There are some [slides](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) and [videos](https://www.youtube.com/playlist?list=PL6397E4B26D00A269).
 
-- [Natual Language Processing, Stanford](https://web.stanford.edu/class/cs224n/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
+- [Natural Language Processing, Stanford](https://web.stanford.edu/class/cs224n/) ([materiales](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1162/syllabus.shtml))
 
-- [Natual Language Processing with Deep Learning, Stanford](https://web.stanford.edu/class/cs224n/)
+- [Natural Language Processing with Deep Learning, Stanford](https://web.stanford.edu/class/cs224n/)
 
 - [Natural Language Processing, Johns Hopkins University](http://www.cs.jhu.edu/~jason/465/) ([materiales](http://www.cs.jhu.edu/~jason/465/syllabus.pdf))
 
